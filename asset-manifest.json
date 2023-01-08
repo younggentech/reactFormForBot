@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/reactFormForBot/static/css/main.406b6115.css",
-    "main.js": "/reactFormForBot/static/js/main.620d4304.js",
+    "main.css": "/reactFormForBot/static/css/main.e6c13ad2.css",
+    "main.js": "/reactFormForBot/static/js/main.5691b51a.js",
     "static/js/787.48389a1b.chunk.js": "/reactFormForBot/static/js/787.48389a1b.chunk.js",
     "static/media/logo.svg": "/reactFormForBot/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/reactFormForBot/index.html",
-    "main.406b6115.css.map": "/reactFormForBot/static/css/main.406b6115.css.map",
-    "main.620d4304.js.map": "/reactFormForBot/static/js/main.620d4304.js.map",
+    "main.e6c13ad2.css.map": "/reactFormForBot/static/css/main.e6c13ad2.css.map",
+    "main.5691b51a.js.map": "/reactFormForBot/static/js/main.5691b51a.js.map",
     "787.48389a1b.chunk.js.map": "/reactFormForBot/static/js/787.48389a1b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.406b6115.css",
-    "static/js/main.620d4304.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5691b51a.js"
   ]
 }
